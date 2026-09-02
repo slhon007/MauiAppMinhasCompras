@@ -1,8 +1,8 @@
 namespace MauiAppMinhasCompras.Views;
 
-public partial class EditarProtudo : ContentPage
+public partial class EditarProduto : ContentPage
 {
-	public EditarProtudo()
+	public EditarProduto()
 	{
 		InitializeComponent();
 	}
